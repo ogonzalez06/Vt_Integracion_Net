@@ -1,0 +1,16 @@
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.deps.json
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.runtimeconfig.json
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.runtimeconfig.dev.json
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.dll
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.pdb
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.csprojAssemblyReference.cache
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.RazorAssemblyInfo.cache
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.RazorAssemblyInfo.cs
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.AssemblyInfoInputs.cache
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.AssemblyInfo.cs
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.dll
+C:\Users\scampos\source\repos\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.pdb
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\scampos\source\repos\TestWebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
